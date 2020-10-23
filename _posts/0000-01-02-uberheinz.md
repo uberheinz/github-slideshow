@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Just pretend we're talking until the cops leave
 Use the left arrow to go back!
